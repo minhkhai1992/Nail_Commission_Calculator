@@ -1,6 +1,6 @@
 # Nail_Commission_Calculator Project
 
-The project base on calculate salary technician every week make technician life is more easier
+The project base on calculate salary technician (individual) every week make technician life is more easier
 by use the program to calculate the salary what they made for all week and store it into a file
 keep track. 
 
